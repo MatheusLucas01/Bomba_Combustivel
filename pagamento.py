@@ -1,5 +1,3 @@
-# pagamento.py
-
 def realizar_pagamento(valor_total):
     print(f"\nValor total a pagar: R${valor_total:.2f}")
     pagamento = input("Escolha o método de pagamento (1 - Dinheiro, 2 - Cartão): ")

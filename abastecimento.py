@@ -1,5 +1,3 @@
-# abastecimento.py
-
 def calcular_valor(preco, litros):
     if litros <= 0:
         raise ValueError("A quantidade de litros deve ser positiva.")
